@@ -12,6 +12,9 @@ style.md
 
 ##### Contact Us 추가 완료
 
+##### 푸터 추가
+
+
 ##### My GitHub Link
 
 [이은서 깃허브 엿보기](https://github.com/str-leshs)
