@@ -10,7 +10,10 @@ style.md
 
 ##### 구매 페이지 추가 완료
 
+##### Contact Us 추가 완료
+
 ##### 푸터 추가
+
 
 ##### My GitHub Link
 
