@@ -2,8 +2,10 @@
 *이은서의 계발개발*
 
 
-##### 스타일 추가
+##### 스타일 구성 추가
 style.md 
+
+##### 서비스 소개 추가 완료
 
 ##### My GitHub Link
 [이은서 깃허브 엿보기](https://github.com/str-leshs)
