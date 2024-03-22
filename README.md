@@ -5,7 +5,9 @@
 ##### 스타일 추가
 style.md 
 
-##### My GitHub Link
+##### 장바구니 추가 완료
+
+##### <My GitHub Link>
 [이은서 깃허브 엿보기](https://github.com/str-leshs)
 
 
